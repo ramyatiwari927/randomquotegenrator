@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../music project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Quote"
+	}
+}
